@@ -1,3 +1,3 @@
-# VC14-LIB
+# 3rd-LIB
 
-本仓库库为windows下vs2015编译的各种第三方静态库
+本仓库为windows下vc++编译的各种第三方静态库
